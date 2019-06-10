@@ -59,10 +59,11 @@ const anton = {
 // Kennan's ID
   console.log(kennan.id);
 // Keven's email
-
+  console.log(keven.email);
 // Gannie's name
-
+  console.log(gannie.firstName);
 // Antonietta's Gender
+  console.log(anton.firstName);
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
